@@ -9,7 +9,7 @@ A full-stack MERN food delivery application with user and admin features.
 
 ## 🔍 Preview
 
-### 🖼️ Homepage Screenshot  
+### 🖼️ Hero Section  Screenshot  
 ![Homepage](https://github.com/Utkarsh204/food-delivery/blob/fd58a923926f77e08be402935af21a6384d5f1d7/Screenshot%20(86).png?raw=true)
 
 ### 🛒 Cart Page  
