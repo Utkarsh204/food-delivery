@@ -3,23 +3,24 @@ This project is a full-featured Food Delivery Web Application built using the ME
 The backend handles user management, cart operations, order processing, and integrates with MongoDB Atlas for cloud data storage. The admin panel enables administrators to manage food items, monitor orders, and update order statuses in real time.
 
 This project is ideal for understanding the structure and flow of a real-world e-commerce application, including both user and admin workflows, from frontend UI to backend APIs and database integration
+
 # 🍔 Food Delivery App
 
 A full-stack MERN food delivery application with user and admin features.
 
 ## 🔍 Preview
 
-### 🖼️ Hero Section  Screenshot  
+### 🖼️ Homepage Screenshot  
 ![Homepage](https://github.com/Utkarsh204/food-delivery/blob/fd58a923926f77e08be402935af21a6384d5f1d7/Screenshot%20(86).png?raw=true)
+
+### 🔐 Login / Sign Up  
+![Auth](https://github.com/Utkarsh204/food-delivery/blob/851d6ffaad35b19caa536aaa43b593b56329cb4e/Screenshot%20(91).png?raw=true)
 
 ### 🛒 Cart Page  
 ![Cart](https://github.com/Utkarsh204/food-delivery/blob/851d6ffaad35b19caa536aaa43b593b56329cb4e/Screenshot%20(89).png?raw=true)
 
 ### 📦 Place Order Page  
 ![Place Order](https://github.com/Utkarsh204/food-delivery/blob/851d6ffaad35b19caa536aaa43b593b56329cb4e/Screenshot%20(90).png?raw=true)
-
-### 🔐 Login / Sign Up  
-![Auth](https://github.com/Utkarsh204/food-delivery/blob/851d6ffaad35b19caa536aaa43b593b56329cb4e/Screenshot%20(91).png?raw=true)
 
 ### 💳 Stripe Payment  
 ![Stripe Payment](https://github.com/Utkarsh204/food-delivery/blob/851d6ffaad35b19caa536aaa43b593b56329cb4e/Screenshot%20(93).png?raw=true)
@@ -32,4 +33,26 @@ A full-stack MERN food delivery application with user and admin features.
 
 ### 📃 My Orders Page  
 ![My Orders](https://github.com/Utkarsh204/food-delivery/blob/851d6ffaad35b19caa536aaa43b593b56329cb4e/Screenshot%20(96).png?raw=true)
+
+---
+
+## 🛠️ Admin Panel
+
+### 🧾 Admin Dashboard  
+![Admin Dashboard](https://github.com/Utkarsh204/food-delivery/blob/c56a62257fd08068ee588b2c5e7821f223b4389d/Screenshot%20(97).png?raw=true)
+
+### 🍽️ Food List Management  
+![Food List](https://github.com/Utkarsh204/food-delivery/blob/c56a62257fd08068ee588b2c5e7821f223b4389d/Screenshot%20(98).png?raw=true)
+
+### ➕ Add New Food Item  
+![Add Food](https://github.com/Utkarsh204/food-delivery/blob/c56a62257fd08068ee588b2c5e7821f223b4389d/Screenshot%20(99).png?raw=true)
+
+### ✏️ Edit Food Item  
+![Edit Food](https://github.com/Utkarsh204/food-delivery/blob/c56a62257fd08068ee588b2c5e7821f223b4389d/Screenshot%20(100).png?raw=true)
+
+### 🗑️ Delete Food Item Confirmation  
+![Delete Food](https://github.com/Utkarsh204/food-delivery/blob/c56a62257fd08068ee588b2c5e7821f223b4389d/Screenshot%20(101).png?raw=true)
+
+### 📦 Display Orders in Admin Panel  
+![Orders Admin](https://github.com/Utkarsh204/food-delivery/blob/c56a62257fd08068ee588b2c5e7821f223b4389d/Screenshot%20(102).png?raw=true)
 
